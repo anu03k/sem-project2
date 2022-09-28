@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/welcome.png</file>
+        <file>images/bg2.jpg</file>
+        <file>images/bg3.jpg</file>
+        <file>images/bg4.jpg</file>
+        <file>images/bg4.webp</file>
+        <file>images/bgg.jpg</file>
+        <file>images/Blue, white and green Medical care logo.png</file>
+        <file>images/donaaat.jpg</file>
+        <file>images/donate.webp</file>
+        <file>images/history.webp</file>
+        <file>images/home.png</file>
+        <file>images/is.jpg</file>
+        <file>images/IS2.jpg</file>
+        <file>images/is3.png</file>
+        <file>images/logout.png</file>
+        <file>images/person.png</file>
+        <file>images/pr.jpg</file>
+        <file>images/pr1</file>
+        <file>images/red.jpg</file>
+        <file>images/re-LIv (1).png</file>
+        <file>images/stock.jpg</file>
+        <file>images/user.png</file>
+        <file>images/donor.png</file>
+        <file>images/1.png</file>
+        <file>images/2r.jpg</file>
+        <file>images/announce.jpg</file>
+    </qresource>
+</RCC>

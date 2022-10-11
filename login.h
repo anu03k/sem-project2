@@ -18,6 +18,12 @@ public:
 private slots:
     void on_okay_clicked();
 
+    void on_okay_clicked(bool checked);
+
+    void on_okay_2_clicked(bool checked);
+
+    void on_okay_2_clicked();
+
 private:
     Ui::login *ui;
 };

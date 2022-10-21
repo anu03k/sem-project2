@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <RCC>
     <qresource prefix="/img">
         <file>images/welcome.png</file>
@@ -28,3 +29,61 @@
         <file>images/announce.jpg</file>
     </qresource>
 </RCC>
+=======
+<RCC>
+    <qresource prefix="/img">
+        <file>images/welcome.png</file>
+        <file>images/bg2.jpg</file>
+        <file>images/bg3.jpg</file>
+        <file>images/bg4.jpg</file>
+        <file>images/bg4.webp</file>
+        <file>images/bgg.jpg</file>
+        <file>images/Blue, white and green Medical care logo.png</file>
+        <file>images/donaaat.jpg</file>
+        <file>images/donate.webp</file>
+        <file>images/history.webp</file>
+        <file>images/home.png</file>
+        <file>images/is.jpg</file>
+        <file>images/IS2.jpg</file>
+        <file>images/is3.png</file>
+        <file>images/logout.png</file>
+        <file>images/person.png</file>
+        <file>images/pr.jpg</file>
+        <file>images/pr1</file>
+        <file>images/red.jpg</file>
+        <file>images/re-LIv (1).png</file>
+        <file>images/stock.jpg</file>
+        <file>images/user.png</file>
+        <file>images/donor.png</file>
+        <file>images/1.png</file>
+        <file>images/2r.jpg</file>
+        <file>images/a.png</file>
+        <file>images/a-.png</file>
+        <file>images/a+.png</file>
+        <file>images/ab-.png</file>
+        <file>images/ab+.png</file>
+        <file>images/ann.png</file>
+        <file>images/b-.png</file>
+        <file>images/b+.png</file>
+        <file>images/o-.png</file>
+        <file>images/o+.png</file>
+        <file>images/pr2.png</file>
+        <file>images/pr3.png</file>
+        <file>images/e2.png</file>
+        <file>images/take.jpg</file>
+        <file>images/sg-removebg-preview.png</file>
+        <file>images/sg.png</file>
+        <file>images/give-removebg-preview.png</file>
+        <file>images/log.webp</file>
+        <file>images/sp1-removebg-preview.png</file>
+        <file>images/sp2-removebg-preview.png</file>
+        <file>images/is3r.png</file>
+        <file>images/ic4.jpg</file>
+        <file>images/ic1.png</file>
+        <file>images/ic5-removebg-preview.png</file>
+        <file>images/ic3-removebg-preview.png</file>
+        <file>images/ic6.png</file>
+        <file>images/png-transparent-blood-donation-blood-bank-blood-miscellaneous-child-service-thumbnail-removebg-preview.png</file>
+    </qresource>
+</RCC>
+>>>>>>> 2b3e0b8 (first commit)
